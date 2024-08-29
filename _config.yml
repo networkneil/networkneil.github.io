@@ -1,4 +1,1 @@
 theme: jekyll-theme-cayman
-include: [".well-known", ".nojekyll"]
-keep_files:
- - .well-known/acme-challenge/oFtUuJRXRE-d1sMJokuk2m5d1h8sRaajBuO3Bsuznq8
